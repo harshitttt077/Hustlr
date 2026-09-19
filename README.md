@@ -51,8 +51,6 @@ Hustlr/
     └── lib/          api.ts (Axios), utils.ts
 ```
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js v18+
