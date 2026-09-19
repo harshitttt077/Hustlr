@@ -96,13 +96,6 @@ npm run dev            # → http://localhost:3000
 | PATCH | `/api/challenges/:id/winner` | Pick winner | Company |
 | GET | `/api/users/:id/approve` | Approve student | Admin |
 
-## Socket.io Events
-
-| Event | Direction | Description |
-|-------|-----------|-------------|
-| `join_order` | Client → Server | Join order room |
-| `send_message` | Client → Server | Send chat message |
-| `new_message` | Server → Client | Receive new message |
 
 ## Environment Variables
 
