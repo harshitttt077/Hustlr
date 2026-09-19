@@ -1,6 +1,6 @@
 # Hustlr — Student Freelance Marketplace
 
-> A full-stack marketplace connecting verified college students with companies seeking affordable, quality freelance work.
+> A full-stack marketplace connecting verified college students with companies seeking affordable, quality freelance work
 
 ## Tech Stack
 
